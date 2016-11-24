@@ -1,0 +1,4 @@
+\select@language {ngerman}
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}\IeC {\textbullet }}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Literaturverzeichnis}{2}{subsection.1.1}
