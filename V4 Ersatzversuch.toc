@@ -1,4 +1,12 @@
 \select@language {ngerman}
 \select@language {ngerman}
-\contentsline {section}{\numberline {1}\IeC {\textbullet }}{2}{section.1}
-\contentsline {subsection}{\numberline {1.1}Literaturverzeichnis}{2}{subsection.1.1}
+\contentsline {section}{\numberline {1}Experimentelles}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Versuchsaufbau}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Durchf\IeC {\"u}hrung}{3}{subsection.1.2}
+\contentsline {section}{\numberline {2}Auswertung}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Bestimmung der W\IeC {\"a}rmekapazit\IeC {\"a}t}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Fehlerrechnung}{6}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Bestimmung von $\Delta H_\mathrm {N}$ nach Hess und Vergleich mit Messwerten}{6}{subsection.2.3}
+\contentsline {section}{\numberline {3}Diskussion systematischer Fehler}{6}{section.3}
+\contentsline {section}{\numberline {4}Anhang}{8}{section.4}
+\contentsline {section}{\numberline {5}Literaturverzeichnis}{10}{section.5}
