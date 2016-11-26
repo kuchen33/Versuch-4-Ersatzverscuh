@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.12)  24 NOV 2016 14:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.12)  26 NOV 2016 14:44
 entering extended mode
 **"V4 Ersatzversuch.tex"
 ("V4 Ersatzversuch.tex"
@@ -1148,7 +1148,11 @@ Package babelbib Warning: Command \selectbiblanguage used without package
 
 ("D:\Neuer Ordner\tex\latex\placeins\placeins.sty"
 Package: placeins 2005/04/18  v 2.2
-) ("V4 Ersatzversuch.aux")
+) ("V4 Ersatzversuch.aux"
+
+LaTeX Warning: Label `n' multiply defined.
+
+)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
 LaTeX Font Info:    ... okay on input line 97.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
@@ -1165,8 +1169,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 97.
 LaTeX Font Info:    ... okay on input line 97.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 97.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 97.
-
-("D:\Neuer Ordner\tex\latex\base\ts1cmr.fd"
+ ("D:\Neuer Ordner\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 97.
@@ -1284,26 +1287,26 @@ Package babel Info: Redefining ngerman shorthand "~
 {C:/Users/Jule/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] ("V4 Ersatzv
 ersuch.toc")
 \tf@toc=\write5
-LaTeX Font Info:    Try loading font information for TS1+cmss on input line 130
-.
-
-("D:\Neuer Ordner\tex\latex\base\ts1cmss.fd"
-File: ts1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 130.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 130.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 137.
+(babel)             in language  on input line 131.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 137.
+(babel)             in language  on input line 131.
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--146
+<Versuchsbau.png, id=61, 320.69812pt x 252.945pt>
+File: Versuchsbau.png Graphic file (type png)
+ <use Versuchsbau.png>
+Package pdftex.def Info: Versuchsbau.png used on input line 136.
+(pdftex.def)             Requested size: 320.69733pt x 252.94438pt.
+Package placeins Info: No floats held, on input line 139.
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--147
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 147.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 147.
 Package babel Info: Redefining ngerman shorthand "~
@@ -1312,42 +1315,344 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 147.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 147.
-[2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 147.
+[2 <./Versuchsbau.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 149.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 149.
+
+Overfull \hbox (1.6981pt too wide) in paragraph at lines 150--156
+\OT1/cmr/m/n/12 Die Neu-tra-li-sa-ti-ons-ent-hal-pie von $\OML/cmm/m/it/12 HCl$
+ \OT1/cmr/m/n/12 und $\OML/cmm/m/it/12 HAc$ \OT1/cmr/m/n/12 soll-ten mit-tels d
+er Verd[]unnungsenthalpie
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--156
+
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 157.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 157.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 157.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 157.
+[3
+Package placeins Info: Float barrier, from input line 139, processed on page 2,
+ lands on page 3. 
+]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 158.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 158.
+
+
+Package caption Warning: \label without proper reference on input line 293.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `HClundNaOH' on page 4 undefined on input line 159.
+
+
+Package caption Warning: \label without proper reference on input line 293.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `HClundNaOH' on page 4 undefined on input line 159.
+
+
+Package caption Warning: \label without proper reference on input line 301.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `HAcundNaOH' on page 4 undefined on input line 159.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 161.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 161.
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+Package placeins Info: No floats held, on input line 181.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 197.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 197.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 197.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 197.
+[4
+Package placeins Info: Float barrier, from input line 181, processed on page 4,
+ lands on page 4. 
+]
+Package placeins Info: No floats held, on input line 214.
+
+
+Package caption Warning: \label without proper reference on input line 308.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `Verduennung' on page 5 undefined on input line 216.
+
+
+Overfull \hbox (26.54567pt too wide) in paragraph at lines 216--218
+\OT1/cmr/m/n/12 renz mit-tels li-nea-rer Ex-tra-po-la-ti-on aus Ab-bil-dung ([]
+[][]) be-stimmt. Mit-tels der W[]armekapazit[]at
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--218
+
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 241.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 241.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 243.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 243.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 243.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\Delta' on input line 243.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 243.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 243.
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 247.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 247.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 247.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 247.
+[5
+Package placeins Info: Float barrier, from input line 214, processed on page 5,
+ lands on page 5. 
+]
+Underfull \hbox (badness 10000) in paragraph at lines 259--262
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
+
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 269.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 269.
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
+
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 271.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 271.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 271.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 271.
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--278
+
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 281.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 281.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 281.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 281.
+[7]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 282.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 282.
+ <KalibrierkurveThermoelementOrigin.png, id=137, 822.4326pt x 578.16pt>
+File: KalibrierkurveThermoelementOrigin.png Graphic file (type png)
+
+<use KalibrierkurveThermoelementOrigin.png>
+Package pdftex.def Info: KalibrierkurveThermoelementOrigin.png used on input li
+ne 286.
+(pdftex.def)             Requested size: 384.1122pt x 270.0326pt.
+Package placeins Info: No floats held, on input line 289.
+
+<HClundNaOH.png, id=138, 820.9872pt x 573.1011pt>
+File: HClundNaOH.png Graphic file (type png)
+ <use HClundNaOH.png>
+Package pdftex.def Info: HClundNaOH.png used on input line 295.
+(pdftex.def)             Requested size: 384.1122pt x 268.13329pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package placeins Info: Must dump some floats on input line 298.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 298.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 298.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 298.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 298.
+[8
+Package placeins Info: Float barrier, from input line 289, processed on page 8,
+ lands on page 8. 
+Package placeins Info: Float barrier, from input line 298, processed on page 8,
+ lands on page 8. 
+ <./KalibrierkurveThermoelementOrigin.png>]
+Package placeins Info: Check again: on input line 298.
+Package placeins Info: No floats held, on input line 298.
+
+<HAcundNaOH.png, id=145, 822.4326pt x 578.16pt>
+File: HAcundNaOH.png Graphic file (type png)
+ <use HAcundNaOH.png>
+Package pdftex.def Info: HAcundNaOH.png used on input line 303.
+(pdftex.def)             Requested size: 384.1122pt x 270.0326pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package placeins Info: Must dump some floats on input line 306.
+Package placeins Info: Check again: on input line 306.
+
+Package placeins Warning: Some floats are stuck, on input line 306.
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 306.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 306.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 306.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 306.
+[9 <./HClundNaOH.png> <./HAcundNaOH.png>]
+<Verduennungsenthalpie.png, id=152, 820.9872pt x 573.1011pt>
+File: Verduennungsenthalpie.png Graphic file (type png)
+
+<use Verduennungsenthalpie.png>
+Package pdftex.def Info: Verduennungsenthalpie.png used on input line 310.
+(pdftex.def)             Requested size: 384.1122pt x 268.13329pt.
+Package placeins Info: No floats held, on input line 313.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 318.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 318.
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 328.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 328.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 328.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 328.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 328.
+[10
+Package placeins Info: Float barrier, from input line 298, processed on page 9,
+ lands on page 10. 
+Package placeins Info: Float barrier, from input line 306, processed on page 9,
+ lands on page 10. 
+Package placeins Info: Float barrier, from input line 306, processed on page 9,
+ lands on page 10. 
+
+Package placeins Info: Float barrier, from input line 313, processed on page 10
+, lands on page 10. 
+ <./Verduennungsenthalpie.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 328.
  ("V4 Ersatzversuch.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 147.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 147.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 328.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 328.
+Package rerunfilecheck Info: File `"V4 Ersatzversuch".out' has not changed.
+(rerunfilecheck)             Checksum: A906ED3EAEA83D68F72D2E3AC9C3C0E3;648.
 
 
-Package rerunfilecheck Warning: File `"V4 Ersatzversuch".out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: Checksums for `"V4 Ersatzversuch".out':
-(rerunfilecheck)             Before: 16C52C61BD00E45E7568D0F37AE66FE9;61
-(rerunfilecheck)             After:  28E8E9C7CB0982E5974D6B70185319B0;110.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 147.
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 328.
  ) 
 Here is how much of TeX's memory you used:
- 20801 strings out of 493673
- 381539 string characters out of 3148822
- 471159 words of memory out of 3000000
- 23893 multiletter control sequences out of 15000+200000
- 19716 words of font info for 80 fonts, out of 3000000 for 9000
+ 20924 strings out of 493673
+ 383024 string characters out of 3148822
+ 478159 words of memory out of 3000000
+ 23968 multiletter control sequences out of 15000+200000
+ 28443 words of font info for 116 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 44i,7n,56p,10369b,766s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{subsection.0.1} has been referenced but does not 
-exist, replaced by a fixed one
-
- <C:\Users\Jule\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcs
-x1728.pk><D:/Neuer Ordner/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Neuer O
-rdner/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><D:/Neuer Ordner/fonts/type1/p
-ublic/amsfonts/cm/cmr12.pfb><D:/Neuer Ordner/fonts/type1/public/amsfonts/cm/cmr
-17.pfb><D:/Neuer Ordner/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><D:/Neuer O
-rdner/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "V4 Ersatzversuch.pdf" (2 pages, 80949 bytes).
+ 44i,11n,56p,10369b,766s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/Neuer Ordner/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Neuer Ordner/f
+onts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Neuer Ordner/fonts/type1/public/am
+sfonts/cm/cmcsc10.pfb><D:/Neuer Ordner/fonts/type1/public/amsfonts/cm/cmex10.pf
+b><D:/Neuer Ordner/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/Neuer Ordner/f
+onts/type1/public/amsfonts/cm/cmmi8.pfb><D:/Neuer Ordner/fonts/type1/public/ams
+fonts/cm/cmr10.pfb><D:/Neuer Ordner/fonts/type1/public/amsfonts/cm/cmr12.pfb><D
+:/Neuer Ordner/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/Neuer Ordner/fonts/
+type1/public/amsfonts/cm/cmr6.pfb><D:/Neuer Ordner/fonts/type1/public/amsfonts/
+cm/cmr7.pfb><D:/Neuer Ordner/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Neuer 
+Ordner/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><D:/Neuer Ordner/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb><D:/Neuer Ordner/fonts/type1/public/amsfonts/cm/
+cmsy8.pfb><D:/Neuer Ordner/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/Neuer 
+Ordner/fonts/type1/public/amsfonts/cm/cmti12.pfb><D:/Neuer Ordner/fonts/type1/p
+ublic/amsfonts/cm/cmti8.pfb><D:/Neuer Ordner/fonts/type1/public/amsfonts/symbol
+s/msam10.pfb>
+Output written on "V4 Ersatzversuch.pdf" (10 pages, 505969 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
- 9 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 230 PDF objects out of 1000 (max. 8388607)
+ 40 named destinations out of 1000 (max. 500000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
 
