@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.12)  26 NOV 2016 14:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.12)  30 NOV 2016 21:51
 entering extended mode
 **"V4 Ersatzversuch.tex"
 ("V4 Ersatzversuch.tex"
@@ -1321,13 +1321,6 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 149.
 
-Overfull \hbox (1.6981pt too wide) in paragraph at lines 150--156
-\OT1/cmr/m/n/12 Die Neu-tra-li-sa-ti-ons-ent-hal-pie von $\OML/cmm/m/it/12 HCl$
- \OT1/cmr/m/n/12 und $\OML/cmm/m/it/12 HAc$ \OT1/cmr/m/n/12 soll-ten mit-tels d
-er Verd[]unnungsenthalpie
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 150--156
 
  []
@@ -1349,289 +1342,376 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 158.
 
-
-Package caption Warning: \label without proper reference on input line 293.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `HClundNaOH' on page 4 undefined on input line 159.
-
-
-Package caption Warning: \label without proper reference on input line 293.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `HClundNaOH' on page 4 undefined on input line 159.
-
-
-Package caption Warning: \label without proper reference on input line 301.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `HAcundNaOH' on page 4 undefined on input line 159.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
+Underfull \hbox (badness 10000) in paragraph at lines 159--166
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 161.
+(babel)             in language  on input line 167.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 161.
+(babel)             in language  on input line 167.
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--174
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--176
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
 
  []
 
-Package placeins Info: No floats held, on input line 181.
+Package placeins Info: No floats held, on input line 187.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 197.
+(babel)             in language  on input line 203.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 197.
+(babel)             in language  on input line 203.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 197.
+(babel)             in language  on input line 203.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 197.
+(babel)             in language  on input line 203.
 [4
-Package placeins Info: Float barrier, from input line 181, processed on page 4,
+Package placeins Info: Float barrier, from input line 187, processed on page 4,
  lands on page 4. 
 ]
-Package placeins Info: No floats held, on input line 214.
+Package placeins Info: No floats held, on input line 220.
 
-
-Package caption Warning: \label without proper reference on input line 308.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `Verduennung' on page 5 undefined on input line 216.
-
-
-Overfull \hbox (26.54567pt too wide) in paragraph at lines 216--218
-\OT1/cmr/m/n/12 renz mit-tels li-nea-rer Ex-tra-po-la-ti-on aus Ab-bil-dung ([]
-[][]) be-stimmt. Mit-tels der W[]armekapazit[]at
+Overfull \hbox (19.67061pt too wide) in paragraph at lines 222--226
+\OT1/cmr/m/n/12 renz mit-tels li-nea-rer Ex-tra-po-la-ti-on aus Ab-bil-dung (5)
+ be-stimmt. Mit-tels der W[]armekapazit[]at
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--218
+Underfull \hbox (badness 10000) in paragraph at lines 222--226
 
  []
 
+Package placeins Info: Must dump some floats on input line 246.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 241.
+(babel)             in language  on input line 246.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 241.
+(babel)             in language  on input line 246.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 243.
+(babel)             in language  on input line 246.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 243.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 243.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\Delta' on input line 243.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 243.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 243.
-
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 247.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 247.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 247.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 247.
+(babel)             in language  on input line 246.
 [5
-Package placeins Info: Float barrier, from input line 214, processed on page 5,
+Package placeins Info: Float barrier, from input line 220, processed on page 5,
+ lands on page 5. 
+Package placeins Info: Float barrier, from input line 246, processed on page 5,
  lands on page 5. 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 259--262
+Package placeins Info: Check again: on input line 246.
+Package placeins Info: No floats held, on input line 246.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 251.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 251.
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--266
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 267--268
+Underfull \hbox (badness 10000) in paragraph at lines 271--274
+
+ []
+
+Package placeins Info: Must dump some floats on input line 290.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 290.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 290.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 290.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 290.
+[6
+Package placeins Info: Float barrier, from input line 246, processed on page 6,
+ lands on page 6. 
+Package placeins Info: Float barrier, from input line 290, processed on page 6,
+ lands on page 6. 
+]
+Package placeins Info: Check again: on input line 290.
+Package placeins Info: No floats held, on input line 290.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 292.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 292.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 292.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\Delta' on input line 292.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 292.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 292.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--311
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--314
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 269.
+(babel)             in language  on input line 317.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 269.
-
-Underfull \hbox (badness 10000) in paragraph at lines 270--271
-
- []
-
+(babel)             in language  on input line 317.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 271.
+(babel)             in language  on input line 317.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 271.
+(babel)             in language  on input line 317.
+[7
+Package placeins Info: Float barrier, from input line 290, processed on page 7,
+ lands on page 7. 
+]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 271.
+(babel)             in language  on input line 318.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 271.
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 272--273
+(babel)             in language  on input line 318.
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 274--275
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--278
+Underfull \hbox (badness 10000) in paragraph at lines 321--322
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--324
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--327
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 281.
+(babel)             in language  on input line 330.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 281.
+(babel)             in language  on input line 330.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 281.
+(babel)             in language  on input line 330.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 281.
-[7]
+(babel)             in language  on input line 330.
+[8]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 282.
+(babel)             in language  on input line 332.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 282.
- <KalibrierkurveThermoelementOrigin.png, id=137, 822.4326pt x 578.16pt>
+(babel)             in language  on input line 332.
+ <KalibrierkurveThermoelementOrigin.png, id=138, 620.5584pt x 510.2262pt>
 File: KalibrierkurveThermoelementOrigin.png Graphic file (type png)
 
 <use KalibrierkurveThermoelementOrigin.png>
 Package pdftex.def Info: KalibrierkurveThermoelementOrigin.png used on input li
-ne 286.
-(pdftex.def)             Requested size: 384.1122pt x 270.0326pt.
-Package placeins Info: No floats held, on input line 289.
+ne 336.
+(pdftex.def)             Requested size: 384.1122pt x 315.83092pt.
+Package placeins Info: No floats held, on input line 339.
 
-<HClundNaOH.png, id=138, 820.9872pt x 573.1011pt>
+<HClundNaOH.png, id=139, 820.9872pt x 573.1011pt>
 File: HClundNaOH.png Graphic file (type png)
  <use HClundNaOH.png>
-Package pdftex.def Info: HClundNaOH.png used on input line 295.
+Package pdftex.def Info: HClundNaOH.png used on input line 345.
 (pdftex.def)             Requested size: 384.1122pt x 268.13329pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-Package placeins Info: Must dump some floats on input line 298.
+Package placeins Info: Must dump some floats on input line 348.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 298.
+(babel)             in language  on input line 348.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 298.
+(babel)             in language  on input line 348.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 298.
+(babel)             in language  on input line 348.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 298.
-[8
-Package placeins Info: Float barrier, from input line 289, processed on page 8,
- lands on page 8. 
-Package placeins Info: Float barrier, from input line 298, processed on page 8,
- lands on page 8. 
+(babel)             in language  on input line 348.
+[9
+Package placeins Info: Float barrier, from input line 339, processed on page 9,
+ lands on page 9. 
+Package placeins Info: Float barrier, from input line 348, processed on page 9,
+ lands on page 9. 
  <./KalibrierkurveThermoelementOrigin.png>]
-Package placeins Info: Check again: on input line 298.
-Package placeins Info: No floats held, on input line 298.
+Package placeins Info: Check again: on input line 348.
+Package placeins Info: No floats held, on input line 348.
 
-<HAcundNaOH.png, id=145, 822.4326pt x 578.16pt>
+<HAcundNaOH.png, id=146, 822.4326pt x 578.16pt>
 File: HAcundNaOH.png Graphic file (type png)
  <use HAcundNaOH.png>
-Package pdftex.def Info: HAcundNaOH.png used on input line 303.
+Package pdftex.def Info: HAcundNaOH.png used on input line 353.
 (pdftex.def)             Requested size: 384.1122pt x 270.0326pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-Package placeins Info: Must dump some floats on input line 306.
-Package placeins Info: Check again: on input line 306.
+Package placeins Info: Must dump some floats on input line 356.
+Package placeins Info: Check again: on input line 356.
 
-Package placeins Warning: Some floats are stuck, on input line 306.
+Package placeins Warning: Some floats are stuck, on input line 356.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 306.
+(babel)             in language  on input line 356.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 306.
+(babel)             in language  on input line 356.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 306.
+(babel)             in language  on input line 356.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 306.
-[9 <./HClundNaOH.png> <./HAcundNaOH.png>]
-<Verduennungsenthalpie.png, id=152, 820.9872pt x 573.1011pt>
+(babel)             in language  on input line 356.
+[10 <./HClundNaOH.png> <./HAcundNaOH.png>]
+<Verduennungsenthalpie.png, id=155, 820.9872pt x 573.1011pt>
 File: Verduennungsenthalpie.png Graphic file (type png)
 
 <use Verduennungsenthalpie.png>
-Package pdftex.def Info: Verduennungsenthalpie.png used on input line 310.
+Package pdftex.def Info: Verduennungsenthalpie.png used on input line 360.
 (pdftex.def)             Requested size: 384.1122pt x 268.13329pt.
-Package placeins Info: No floats held, on input line 313.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 318.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 318.
+Package placeins Info: No floats held, on input line 363.
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--327
+<HClNaOHmitFehlerbalken.png, id=156, 636.6987pt x 482.7636pt>
+File: HClNaOHmitFehlerbalken.png Graphic file (type png)
+
+<use HClNaOHmitFehlerbalken.png>
+Package pdftex.def Info: HClNaOHmitFehlerbalken.png used on input line 368.
+(pdftex.def)             Requested size: 384.1122pt x 291.24416pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package placeins Info: Must dump some floats on input line 371.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 371.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 371.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 371.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 371.
+[11
+Package placeins Info: Float barrier, from input line 348, processed on page 10
+, lands on page 11. 
+Package placeins Info: Float barrier, from input line 356, processed on page 10
+, lands on page 11. 
+Package placeins Info: Float barrier, from input line 356, processed on page 10
+, lands on page 11. 
+
+Package placeins Info: Float barrier, from input line 363, processed on page 11
+, lands on page 11. 
+Package placeins Info: Float barrier, from input line 371, processed on page 11
+, lands on page 11. 
+ <./Verduennungsenthalpie.png>]
+Package placeins Info: Check again: on input line 371.
+Package placeins Info: No floats held, on input line 371.
+
+<HAcNaOHmitFehlerbalken.png, id=163, 661.2705pt x 513.117pt>
+File: HAcNaOHmitFehlerbalken.png Graphic file (type png)
+
+<use HAcNaOHmitFehlerbalken.png>
+Package pdftex.def Info: HAcNaOHmitFehlerbalken.png used on input line 375.
+(pdftex.def)             Requested size: 384.1122pt x 298.06218pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package placeins Info: Must dump some floats on input line 378.
+Package placeins Info: Check again: on input line 378.
+
+Package placeins Warning: Some floats are stuck, on input line 378.
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 378.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 378.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 378.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 378.
+[12 <./HClNaOHmitFehlerbalken.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 378.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 378.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 378.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 378.
+ [13 <./HAcNaOHmitFehlerbalken.png>]
+<HClVerduennungFehlerbalken.png, id=177, 650.43pt x 505.89pt>
+File: HClVerduennungFehlerbalken.png Graphic file (type png)
+
+<use HClVerduennungFehlerbalken.png>
+Package pdftex.def Info: HClVerduennungFehlerbalken.png used on input line 382.
+
+(pdftex.def)             Requested size: 384.1122pt x 298.75812pt.
+Package placeins Info: No floats held, on input line 385.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 388.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 388.
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 328.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 398.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 328.
+(babel)             in language  on input line 398.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 328.
+(babel)             in language  on input line 398.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 328.
+(babel)             in language  on input line 398.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 328.
-[10
-Package placeins Info: Float barrier, from input line 298, processed on page 9,
- lands on page 10. 
-Package placeins Info: Float barrier, from input line 306, processed on page 9,
- lands on page 10. 
-Package placeins Info: Float barrier, from input line 306, processed on page 9,
- lands on page 10. 
+(babel)             in language  on input line 398.
+[14
+Package placeins Info: Float barrier, from input line 371, processed on page 12
+, lands on page 14. 
+Package placeins Info: Float barrier, from input line 378, processed on page 12
+, lands on page 14. 
+Package placeins Info: Float barrier, from input line 378, processed on page 12
+, lands on page 14. 
 
-Package placeins Info: Float barrier, from input line 313, processed on page 10
-, lands on page 10. 
- <./Verduennungsenthalpie.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 328.
+Package placeins Info: Float barrier, from input line 385, processed on page 14
+, lands on page 14. 
+ <./HClVerduennungFehlerbalken.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 398.
  ("V4 Ersatzversuch.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 328.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 328.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 398.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 398.
 Package rerunfilecheck Info: File `"V4 Ersatzversuch".out' has not changed.
 (rerunfilecheck)             Checksum: A906ED3EAEA83D68F72D2E3AC9C3C0E3;648.
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 328.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 398.
  ) 
 Here is how much of TeX's memory you used:
- 20924 strings out of 493673
- 383024 string characters out of 3148822
- 478159 words of memory out of 3000000
- 23968 multiletter control sequences out of 15000+200000
+ 20954 strings out of 493673
+ 383704 string characters out of 3148822
+ 477159 words of memory out of 3000000
+ 23985 multiletter control sequences out of 15000+200000
  28443 words of font info for 116 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  44i,11n,56p,10369b,766s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1650,9 +1730,9 @@ cmsy8.pfb><D:/Neuer Ordner/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/Neuer
 Ordner/fonts/type1/public/amsfonts/cm/cmti12.pfb><D:/Neuer Ordner/fonts/type1/p
 ublic/amsfonts/cm/cmti8.pfb><D:/Neuer Ordner/fonts/type1/public/amsfonts/symbol
 s/msam10.pfb>
-Output written on "V4 Ersatzversuch.pdf" (10 pages, 505969 bytes).
+Output written on "V4 Ersatzversuch.pdf" (14 pages, 641332 bytes).
 PDF statistics:
- 230 PDF objects out of 1000 (max. 8388607)
- 40 named destinations out of 1000 (max. 500000)
- 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 258 PDF objects out of 1000 (max. 8388607)
+ 50 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 

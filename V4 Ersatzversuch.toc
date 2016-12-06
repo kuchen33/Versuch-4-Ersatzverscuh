@@ -6,7 +6,7 @@
 \contentsline {section}{\numberline {2}Auswertung}{4}{section.2}
 \contentsline {subsection}{\numberline {2.1}Bestimmung der W\IeC {\"a}rmekapazit\IeC {\"a}t}{4}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Fehlerrechnung}{6}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Bestimmung von $\Delta H_\mathrm {N}$ nach Hess und Vergleich mit Messwerten}{6}{subsection.2.3}
-\contentsline {section}{\numberline {3}Diskussion systematischer Fehler}{6}{section.3}
-\contentsline {section}{\numberline {4}Anhang}{8}{section.4}
-\contentsline {section}{\numberline {5}Literaturverzeichnis}{10}{section.5}
+\contentsline {subsection}{\numberline {2.3}Bestimmung von $\Delta H_\mathrm {N}$ nach Hess und Vergleich mit Messwerten}{7}{subsection.2.3}
+\contentsline {section}{\numberline {3}Diskussion systematischer Fehler}{8}{section.3}
+\contentsline {section}{\numberline {4}Anhang}{9}{section.4}
+\contentsline {section}{\numberline {5}Literaturverzeichnis}{14}{section.5}
